@@ -30,7 +30,7 @@ tech_assignment_v1.1.2/
 
 1. **Clone the Repository**:
    ```bash
-   git clone git@github.com:schottz/tech_assignment_v1.1.2.git
+   git clone git@github.com:schottz/tech_assignment_v1.1.2.git infrastructure
    cd infrastructure
    ```
 
